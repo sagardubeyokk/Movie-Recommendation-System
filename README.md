@@ -71,13 +71,6 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-## 📸 Screenshots
-
-Add 1–2 screenshots of your app here:
-
-```
-![App Screenshot](screenshots/app.png)
-```
 
 ## 🔮 Future Improvements
 
