@@ -2,7 +2,7 @@
 
 A **content-based movie recommender** built with **Python, NLP and Machine Learning**. Pick a movie you like, and the app instantly suggests similar movies.
 
-🔗 **Live Demo:** [Open the app](YOUR_STREAMLIT_APP_LINK)
+🔗 **Live Demo:** https://sagardubeyokk-movie-recommendation-system-app-7jjhb5.streamlit.app/
 
 ---
 
